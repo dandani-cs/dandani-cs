@@ -1,4 +1,13 @@
-### Hi there 👋
+### Who am i?
+<hr>
+- Computer Science Fresh Graduate <b> currently looking for entry-level jobs </b><br>
+- Python developer with projects in scripts and web development with Django <br>
+- Java developer, with projects in multiple platforms (web, mobile, and desktop) <br>
+- Currently learning C# and .NET! <br>
+- Passionate for learning and self-improvement <br>
+- Team leader and team player, collaborated on many projects <br>
+
+
 
 <!--
 **dandani-cs/dandani-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
