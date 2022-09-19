@@ -1,6 +1,6 @@
 ### Who am i?
 <hr>
-- Computer Science Fresh Graduate <b> currently looking for entry-level jobs </b><br>
+- Computer Science Fresh Graduate awarded <b>Magna Cum Laude, currently looking for entry-level jobs </b><br>
 - Python developer with projects in scripts and web development with Django <br>
 - Java developer, with projects in multiple platforms (web, mobile, and desktop) <br>
 - Currently learning C# and .NET! <br>
