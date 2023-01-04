@@ -1,9 +1,11 @@
-### Who am i?
+### Who am I?
 <hr>
-- Computer Science Fresh Graduate awarded <b>Magna Cum Laude, currently looking for entry-level jobs </b><br>
+- Software Engineer starting January 2023
+- Computer Science Graduate awarded <b>Magna Cum Laude</b><br>
+- Official Tech Stack: C# and Angular <br>
 - Python developer with projects in scripts and web development with Django <br>
 - Java developer, with projects in multiple platforms (web, mobile, and desktop) <br>
-- Currently learning C# and .NET! <br>
+- Currently learning Angular and TypeScript <br>
 - Passionate for learning and self-improvement <br>
 - Team leader and team player, collaborated on many projects <br>
 
